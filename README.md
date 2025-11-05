@@ -9,6 +9,13 @@
 > that I’m studying, analyzing, and extending for hands-on learning.  
 
 ---
+### 🏷️ Topics Covered
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-orange)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-green)
+![Data Science](https://img.shields.io/badge/Data%20Science-teal)
+![LangChain](https://img.shields.io/badge/Python-purple)
 
 ##  About this Repository
 
@@ -36,6 +43,7 @@ Each subfolder represents a topic area and contains:
 - All projects inside this repository are **forked or adapted** from open-source repositories shared by amazing creators.  
 - All linked or forked repositories **remain under their original licenses**  
 - This `learning_resources` repository itself **contains no original code** and therefore does **not carry a separate license** at this time.
+  
  *Full credit goes to the original authors.*
 
 ---
