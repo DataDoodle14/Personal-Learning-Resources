@@ -19,7 +19,7 @@ Each subfolder represents a topic area and contains:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 | Folder | Description |
 |--------|--------------|
@@ -30,7 +30,7 @@ Each subfolder represents a topic area and contains:
 
 ---
 
-## 🧾 License and Credits
+##  License and Credits
 
 - This repository exists solely for educational, non-commercial, and self-improvement purposes.
 - All projects inside this repository are **forked or adapted** from open-source repositories shared by amazing creators.  
@@ -40,7 +40,7 @@ Each subfolder represents a topic area and contains:
 
 ---
 
-## 🧩 My Learning Goals
+##  My Learning Goals
 
 - Master end-to-end data workflows (cleaning → modeling → deployment)
 - Strengthen ML, DL, Gen AI fundamentals.
